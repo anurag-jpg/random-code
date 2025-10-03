@@ -23,3 +23,5 @@ let isLoggedIn=false
 console.log(typeof age)
  console.log(typeof undefined)
  console.log(typeof null)
+ let text = "We are the so-called \"Vikings\" from the north.";
+console.log(text)
